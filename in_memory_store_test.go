@@ -3,7 +3,7 @@ package data_test
 import (
 	"testing"
 
-	data "github.com/fourcube/goiban-data"
+	data "github.com/marcapo/goiban-data"
 )
 
 func TestStoreInMemory(t *testing.T) {
